@@ -1,10 +1,10 @@
 # Hot-Talks: Chat With an AI Girlfriend
 
-[![Hot-Talks](./banner.png)](https://hot-talks.com/)
+[![Hot-Talks](./banner.png)](https://hottalksai.run/topic)
 
 Hot-Talks is an 18+ AI companion site. You pick a character, chat, and keep the conversation going in the browser. This page is an independent overview. The button below goes to the product.
 
-**[Start chatting on Hot-Talks](https://hot-talks.com/)**
+**[Start chatting on Hot-Talks](https://hottalksai.run/topic)**
 
 ## At a glance
 
@@ -36,7 +36,7 @@ It runs in the browser. No separate app is required to try the chat.
 
 Use it if you want a simple 18+ companion chat in the browser and prefer choosing a ready character. Skip it if you need therapy, a real relationship, or a general work chatbot.
 
-**[Open Hot-Talks](https://hot-talks.com/)**
+**[Open Hot-Talks](https://hottalksai.run/topic)**
 
 ## Pricing
 
@@ -83,12 +83,12 @@ Yes. It is a website, so a current mobile browser is enough.
 
 ### Is this the official page?
 
-No. This is an overview. The links go to hot-talks.com.
+No. This is an overview. The links go to the product.
 
 ## Verdict
 
 Hot-Talks fits if you want a straightforward 18+ companion chat and a character you can start with immediately. Check the live plan and privacy pages, then decide.
 
-**[Try Hot-Talks](https://hot-talks.com/)**
+**[Try Hot-Talks](https://hottalksai.run/topic)**
 
 Product name belongs to its owner. This is an independent overview page.
